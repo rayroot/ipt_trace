@@ -1,5 +1,5 @@
 # ipt_trace
-Just like a PRISM for tuning iptables，especially in the case of NetworkPolicy on Kubernetes,and still on proccess. if you have any idea ,let me know please! 
+Just like a PRISM for tuning iptables, especially in the case of NetworkPolicy on Kubernetes, and still on proccess. if you have any idea, let me know please! 
 
 First of all, thanks to @yadutaf , because this work most come from the project of tracepkt 
 
